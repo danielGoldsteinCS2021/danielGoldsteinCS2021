@@ -8,7 +8,7 @@
 </p>
 
 ## About 
-I'm a software developer who recently graduated with a Bachelor’s of Computing from Queen’s University. During my undergraduate degree, I focused on theoretical computer science and even created my own [predicate logic language!](https://lego-web-app.herokuapp.com/) My two favourite things are coding and consuming an unhealthy amount of :pizza::pizza::pizza: (if you are reading this, Pizza Nova, I won’t object to a sponsorship!).
+I'm a software developer who recently graduated with a Bachelor’s of Computing from Queen’s University :canada:. During my undergraduate degree, I focused on theoretical computer science and even created my own [predicate logic language!](https://lego-web-app.herokuapp.com/) My two favourite things are coding and consuming an unhealthy amount of :pizza::pizza::pizza: (if you are reading this, Pizza Nova, I won’t object to a sponsorship!).
 
 ## What am I up to?
 Currently, I am working towards preparing myself for the next Nathan’s :hotdog::hotdog::hotdog: eating contest. Professionally, I am looking for a full time Back-End/Full Stack Software Development role! 
